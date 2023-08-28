@@ -1,0 +1,17 @@
+G:\repos\HossamDemo\CourseManagmentBLL\bin\Debug\net7.0\CourseManagmentBLL.deps.json
+G:\repos\HossamDemo\CourseManagmentBLL\bin\Debug\net7.0\CourseManagmentBLL.runtimeconfig.json
+G:\repos\HossamDemo\CourseManagmentBLL\bin\Debug\net7.0\CourseManagmentBLL.dll
+G:\repos\HossamDemo\CourseManagmentBLL\bin\Debug\net7.0\CourseManagmentBLL.pdb
+G:\repos\HossamDemo\CourseManagmentBLL\bin\Debug\net7.0\CourseManagmentDAL.dll
+G:\repos\HossamDemo\CourseManagmentBLL\bin\Debug\net7.0\CourseManagmentDAL.pdb
+G:\repos\HossamDemo\CourseManagmentBLL\obj\Debug\net7.0\CourseManagmentBLL.csproj.AssemblyReference.cache
+G:\repos\HossamDemo\CourseManagmentBLL\obj\Debug\net7.0\CourseManagmentBLL.GeneratedMSBuildEditorConfig.editorconfig
+G:\repos\HossamDemo\CourseManagmentBLL\obj\Debug\net7.0\CourseManagmentBLL.AssemblyInfoInputs.cache
+G:\repos\HossamDemo\CourseManagmentBLL\obj\Debug\net7.0\CourseManagmentBLL.AssemblyInfo.cs
+G:\repos\HossamDemo\CourseManagmentBLL\obj\Debug\net7.0\CourseManagmentBLL.csproj.CoreCompileInputs.cache
+G:\repos\HossamDemo\CourseManagmentBLL\obj\Debug\net7.0\CourseManagmentBLL.csproj.CopyComplete
+G:\repos\HossamDemo\CourseManagmentBLL\obj\Debug\net7.0\CourseManagmentBLL.dll
+G:\repos\HossamDemo\CourseManagmentBLL\obj\Debug\net7.0\refint\CourseManagmentBLL.dll
+G:\repos\HossamDemo\CourseManagmentBLL\obj\Debug\net7.0\CourseManagmentBLL.pdb
+G:\repos\HossamDemo\CourseManagmentBLL\obj\Debug\net7.0\CourseManagmentBLL.genruntimeconfig.cache
+G:\repos\HossamDemo\CourseManagmentBLL\obj\Debug\net7.0\ref\CourseManagmentBLL.dll

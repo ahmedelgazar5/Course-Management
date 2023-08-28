@@ -1,0 +1,14 @@
+G:\repos\HossamDemo\CourseManagmentDAL\bin\Debug\net7.0\CourseManagmentDAL.deps.json
+G:\repos\HossamDemo\CourseManagmentDAL\bin\Debug\net7.0\CourseManagmentDAL.runtimeconfig.json
+G:\repos\HossamDemo\CourseManagmentDAL\bin\Debug\net7.0\CourseManagmentDAL.dll
+G:\repos\HossamDemo\CourseManagmentDAL\bin\Debug\net7.0\CourseManagmentDAL.pdb
+G:\repos\HossamDemo\CourseManagmentDAL\obj\Debug\net7.0\CourseManagmentDAL.csproj.AssemblyReference.cache
+G:\repos\HossamDemo\CourseManagmentDAL\obj\Debug\net7.0\CourseManagmentDAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\repos\HossamDemo\CourseManagmentDAL\obj\Debug\net7.0\CourseManagmentDAL.AssemblyInfoInputs.cache
+G:\repos\HossamDemo\CourseManagmentDAL\obj\Debug\net7.0\CourseManagmentDAL.AssemblyInfo.cs
+G:\repos\HossamDemo\CourseManagmentDAL\obj\Debug\net7.0\CourseManagmentDAL.csproj.CoreCompileInputs.cache
+G:\repos\HossamDemo\CourseManagmentDAL\obj\Debug\net7.0\CourseManagmentDAL.dll
+G:\repos\HossamDemo\CourseManagmentDAL\obj\Debug\net7.0\refint\CourseManagmentDAL.dll
+G:\repos\HossamDemo\CourseManagmentDAL\obj\Debug\net7.0\CourseManagmentDAL.pdb
+G:\repos\HossamDemo\CourseManagmentDAL\obj\Debug\net7.0\CourseManagmentDAL.genruntimeconfig.cache
+G:\repos\HossamDemo\CourseManagmentDAL\obj\Debug\net7.0\ref\CourseManagmentDAL.dll
