@@ -1,0 +1,14 @@
+.reset {
+    all: revert;
+}
+
+.form-update-add{
+    justify-content: center;
+}
+
+.buttons{
+    display: flex !important;
+    justify-content: center !important;
+    padding-top: 10px !important;
+
+}
